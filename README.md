@@ -14,7 +14,7 @@ levels and supports arithmetic and logic expression.<br>
  |  6  | \|\| |
 
   And these are rules of syntax.<br>
-![Rules][rules]
+![Rules](https://github.com/NK-CS-ZZL/LR0-Analysis/blob/master/actions.png)
   These is the action table.<br>
 <div align=center><img width = '150' height ='150' src ="https://github.com/NK-CS-ZZL/LR0-Analysis/blob/master/actions.png"/></div>
 

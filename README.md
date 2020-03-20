@@ -19,6 +19,7 @@ levels and supports arithmetic and logic expression.<br>
  to establish this table, you can try a less-priority-levels one. For example, a table including four arithmetic operations and two priority
   is a good idea, and this is how I finish this work.<br>
 ![Actions](https://github.com/NK-CS-ZZL/LR0-Analysis/blob/master/actions.png)<br>
+  In above table, postive value means shift action, negative value means reduce action and zero means no action(if you get a zero, that means reduction error occurs). You can find more instances in comments in syntax.cpp.
   This program can only support integer calculation. However, it isn't difficult to be compatible with float. You just need  convert functions
   between string and float.<br> 
    I attempt to take all edge cases into account, such as overflow, underflow, divide zero, but maybe there are still some bugs.<br>

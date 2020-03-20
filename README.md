@@ -15,7 +15,4 @@ levels and supports arithmetic and logic expression.<br>
 
   And these are rules of syntax.
 
-   |序号|规则|
-   |:-:|:-:|
-   |0|$S\rightarrowA$
 

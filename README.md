@@ -4,7 +4,6 @@
 levels and supports arithmetic and logic expression.<br>
   I simplify the priority levels in C, such as '==' and '-=' oughtn't to have the same priority, for it's too exhausting to analyse a syntax
  with so many rules. After simplication, priority table is the following one.<br>
-<center>
  | 优先级 | 符号 |
  |:----:|:----:|
  |  1  |unary op|
@@ -13,10 +12,10 @@ levels and supports arithmetic and logic expression.<br>
  |  4  | compare op|
  |  5  |  &&  |
  |  6  | \|\| |
-</center>
+
   And these are rules of syntax.
- <center>
+
    |序号|规则|
    |:-:|:-:|
    |0|$S\rightarrowA$
- </center>
+

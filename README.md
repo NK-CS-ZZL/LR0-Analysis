@@ -13,10 +13,10 @@ levels and supports arithmetic and logic expression.<br>
  |  4  | compare op|
  |  5  |  &&  |
  |  6  | \|\| |
-<\center>
+</center>
   And these are rules of syntax.
  <center>
    |序号|规则|
    |:-:|:-:|
    |0|$S\rightarrowA$
- <\center>
+ </center>

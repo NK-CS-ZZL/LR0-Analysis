@@ -13,6 +13,8 @@ levels and supports arithmetic and logic expression.<br>
  |  5  |  &&  |
  |  6  | \|\| |
 
-  And these are rules of syntax.
-
+  And these are rules of syntax.<br>
+<div align=center><img width = '150' height ='150' src ="https://github.com/NK-CS-ZZL/LR0-Analysis/blob/master/rules.png"/></div>
+  These is the action table.<br>
+<div align=center><img width = '150' height ='150' src ="https://github.com/NK-CS-ZZL/LR0-Analysis/blob/master/actions.png"/></div>
 
